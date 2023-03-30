@@ -1,0 +1,27 @@
+.navbar {
+  
+    background-color: #9E4F16;
+  }
+
+.container1{
+ max-width: 100%;
+
+ height: auto;
+}
+
+.tamano-1{
+  width: 20px;
+  height: 20px;
+}
+
+h2{
+ background-color: #9E4F16;
+ text-align: center;
+
+}
+
+.lineaTitulo{
+  background-color: yellow;
+  height: 3px;
+  width: 400px;
+}
